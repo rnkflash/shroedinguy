@@ -1,0 +1,31 @@
+<project>
+	<name>Achtung project</name>
+	<settings>
+		<defaultWidth>600</defaultWidth>
+		<defaultHeight>400</defaultHeight>
+		
+	</settings>
+	
+	<tilesets>
+		<tileset name="wall" image="../img/bricks_tile.png" tileWidth="16" tileHeight="16" />
+		<tileset name="beton" image="../img/beton_tile.png" tileWidth="16" tileHeight="16" />
+	</tilesets>
+	
+	<layers>
+		<tiles name="walls" gridSize="16" />
+		<tiles name="background" gridSize="16" />
+		<objects name="objects" gridSize="1" />
+	</layers>
+	
+	<objects>
+		<object name="start" image="../img/prisoner.png" width="13" height="17" limit="1" />
+		<object name="end" image="../img/door.png" width="13" height="20" limit="1" />
+		<object name="opendoor" image="../img/door.png" width="13" height="20" limit="1" />
+		<object name="gazenwagen" image="../img/gazenwagen.png" width="42" height="35" limit="1" />
+		<object name="soldier" image="../img/soldier_icon.png" width="24" height="24" limit="10" />
+		<object name="banner" image="../img/banner.png" width="13" height="57" limit="10" />
+		<object name="spikes" image="../img/spikes_icon.png" width="16" height="16" limit="100" />
+	</objects>
+	
+
+</project>

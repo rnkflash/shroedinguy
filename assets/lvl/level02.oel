@@ -1,0 +1,161 @@
+<level>
+  <width>600</width>
+  <height>400</height>
+  <walls set="wall">
+    <tile tx="0" ty="0" x="0" y="0"/>
+    <tile tx="0" ty="0" x="16" y="0"/>
+    <tile tx="0" ty="0" x="32" y="0"/>
+    <tile tx="0" ty="0" x="48" y="0"/>
+    <tile tx="0" ty="0" x="64" y="0"/>
+    <tile tx="0" ty="0" x="80" y="0"/>
+    <tile tx="0" ty="0" x="96" y="0"/>
+    <tile tx="0" ty="0" x="112" y="0"/>
+    <tile tx="0" ty="0" x="128" y="0"/>
+    <tile tx="0" ty="0" x="144" y="0"/>
+    <tile tx="0" ty="0" x="160" y="0"/>
+    <tile tx="0" ty="0" x="176" y="0"/>
+    <tile tx="0" ty="0" x="192" y="0"/>
+    <tile tx="0" ty="0" x="208" y="0"/>
+    <tile tx="0" ty="0" x="224" y="0"/>
+    <tile tx="0" ty="0" x="240" y="0"/>
+    <tile tx="0" ty="0" x="256" y="0"/>
+    <tile tx="0" ty="0" x="256" y="16"/>
+    <tile tx="0" ty="0" x="272" y="16"/>
+    <tile tx="0" ty="0" x="288" y="16"/>
+    <tile tx="0" ty="0" x="304" y="16"/>
+    <tile tx="0" ty="0" x="320" y="16"/>
+    <tile tx="0" ty="0" x="336" y="16"/>
+    <tile tx="0" ty="0" x="352" y="16"/>
+    <tile tx="0" ty="0" x="0" y="96"/>
+    <tile tx="0" ty="0" x="16" y="96"/>
+    <tile tx="0" ty="0" x="32" y="96"/>
+    <tile tx="0" ty="0" x="48" y="96"/>
+    <tile tx="0" ty="0" x="64" y="96"/>
+    <tile tx="0" ty="0" x="80" y="96"/>
+    <tile tx="0" ty="0" x="96" y="96"/>
+    <tile tx="0" ty="0" x="112" y="96"/>
+    <tile tx="0" ty="0" x="128" y="96"/>
+    <tile tx="0" ty="0" x="144" y="96"/>
+    <tile tx="0" ty="0" x="160" y="96"/>
+    <tile tx="0" ty="0" x="176" y="96"/>
+    <tile tx="0" ty="0" x="192" y="96"/>
+    <tile tx="0" ty="0" x="208" y="96"/>
+    <tile tx="0" ty="0" x="224" y="96"/>
+    <tile tx="0" ty="0" x="240" y="96"/>
+    <tile tx="0" ty="0" x="256" y="96"/>
+    <tile tx="0" ty="0" x="272" y="96"/>
+    <tile tx="0" ty="0" x="0" y="16"/>
+    <tile tx="0" ty="0" x="0" y="32"/>
+    <tile tx="0" ty="0" x="0" y="48"/>
+    <tile tx="0" ty="0" x="0" y="64"/>
+    <tile tx="0" ty="0" x="0" y="80"/>
+    <tile tx="0" ty="0" x="352" y="32"/>
+    <tile tx="0" ty="0" x="352" y="48"/>
+    <tile tx="0" ty="0" x="352" y="64"/>
+    <tile tx="0" ty="0" x="352" y="80"/>
+    <tile tx="0" ty="0" x="352" y="96"/>
+    <tile tx="0" ty="0" x="352" y="112"/>
+    <tile tx="0" ty="0" x="352" y="128"/>
+    <tile tx="0" ty="0" x="352" y="144"/>
+    <tile tx="0" ty="0" x="352" y="160"/>
+    <tile tx="0" ty="0" x="336" y="160"/>
+    <tile tx="0" ty="0" x="336" y="176"/>
+    <tile tx="0" ty="0" x="320" y="176"/>
+    <tile tx="0" ty="0" x="304" y="176"/>
+    <tile tx="0" ty="0" x="304" y="160"/>
+    <tile tx="0" ty="0" x="288" y="160"/>
+    <tile tx="0" ty="0" x="272" y="160"/>
+    <tile tx="0" ty="0" x="256" y="160"/>
+    <tile tx="0" ty="0" x="240" y="160"/>
+    <tile tx="0" ty="0" x="224" y="160"/>
+    <tile tx="0" ty="0" x="208" y="160"/>
+    <tile tx="0" ty="0" x="192" y="160"/>
+    <tile tx="0" ty="0" x="176" y="160"/>
+    <tile tx="0" ty="0" x="160" y="160"/>
+    <tile tx="0" ty="0" x="144" y="160"/>
+    <tile tx="0" ty="0" x="128" y="160"/>
+    <tile tx="0" ty="0" x="112" y="160"/>
+    <tile tx="0" ty="0" x="96" y="160"/>
+    <tile tx="0" ty="0" x="320" y="160"/>
+    <tile tx="0" ty="0" x="0" y="112"/>
+    <tile tx="0" ty="0" x="0" y="128"/>
+    <tile tx="0" ty="0" x="0" y="144"/>
+    <tile tx="0" ty="0" x="0" y="160"/>
+    <tile tx="0" ty="0" x="16" y="160"/>
+    <tile tx="0" ty="0" x="16" y="176"/>
+    <tile tx="0" ty="0" x="16" y="192"/>
+    <tile tx="0" ty="0" x="0" y="176"/>
+    <tile tx="0" ty="0" x="0" y="192"/>
+    <tile tx="0" ty="0" x="0" y="208"/>
+    <tile tx="0" ty="0" x="0" y="224"/>
+    <tile tx="0" ty="0" x="0" y="240"/>
+    <tile tx="0" ty="0" x="0" y="256"/>
+    <tile tx="0" ty="0" x="0" y="272"/>
+    <tile tx="0" ty="0" x="0" y="288"/>
+    <tile tx="0" ty="0" x="0" y="304"/>
+    <tile tx="0" ty="0" x="16" y="304"/>
+    <tile tx="0" ty="0" x="32" y="304"/>
+    <tile tx="0" ty="0" x="48" y="304"/>
+    <tile tx="0" ty="0" x="64" y="304"/>
+    <tile tx="0" ty="0" x="80" y="304"/>
+    <tile tx="0" ty="0" x="96" y="304"/>
+    <tile tx="0" ty="0" x="112" y="304"/>
+    <tile tx="0" ty="0" x="128" y="304"/>
+    <tile tx="0" ty="0" x="144" y="304"/>
+    <tile tx="0" ty="0" x="160" y="304"/>
+    <tile tx="0" ty="0" x="176" y="304"/>
+    <tile tx="0" ty="0" x="192" y="304"/>
+    <tile tx="0" ty="0" x="208" y="304"/>
+    <tile tx="0" ty="0" x="224" y="304"/>
+    <tile tx="0" ty="0" x="240" y="304"/>
+    <tile tx="0" ty="0" x="256" y="304"/>
+    <tile tx="0" ty="0" x="272" y="304"/>
+    <tile tx="0" ty="0" x="288" y="304"/>
+    <tile tx="0" ty="0" x="304" y="304"/>
+    <tile tx="0" ty="0" x="320" y="304"/>
+    <tile tx="0" ty="0" x="336" y="304"/>
+    <tile tx="0" ty="0" x="336" y="320"/>
+    <tile tx="0" ty="0" x="352" y="320"/>
+    <tile tx="0" ty="0" x="368" y="320"/>
+    <tile tx="0" ty="0" x="352" y="176"/>
+    <tile tx="0" ty="0" x="352" y="192"/>
+    <tile tx="0" ty="0" x="352" y="208"/>
+    <tile tx="0" ty="0" x="352" y="224"/>
+    <tile tx="0" ty="0" x="352" y="240"/>
+    <tile tx="0" ty="0" x="352" y="256"/>
+    <tile tx="0" ty="0" x="352" y="272"/>
+    <tile tx="0" ty="0" x="352" y="288"/>
+    <tile tx="0" ty="0" x="352" y="304"/>
+  </walls>
+  <objects>
+    <opendoor x="28" y="76"/>
+    <start x="29" y="79"/>
+    <end x="323" y="284"/>
+    <spikes x="272" y="288"/>
+    <spikes x="304" y="288"/>
+    <spikes x="32" y="288"/>
+    <spikes x="64" y="288"/>
+    <spikes x="80" y="288"/>
+    <spikes x="112" y="288"/>
+    <spikes x="128" y="288"/>
+    <spikes x="160" y="288"/>
+    <spikes x="192" y="288"/>
+    <spikes x="224" y="288"/>
+    <spikes x="240" y="288"/>
+    <spikes x="272" y="80"/>
+    <spikes x="84" y="80"/>
+    <spikes x="100" y="80"/>
+    <spikes x="154" y="80"/>
+    <spikes x="170" y="80"/>
+    <spikes x="202" y="80"/>
+    <spikes x="193" y="144"/>
+    <spikes x="177" y="144"/>
+    <spikes x="146" y="144"/>
+    <spikes x="130" y="144"/>
+    <spikes x="16" y="288"/>
+    <spikes x="336" y="144"/>
+    <spikes x="320" y="144"/>
+    <spikes x="304" y="144"/>
+    <spikes x="273" y="144"/>
+  </objects>
+</level>

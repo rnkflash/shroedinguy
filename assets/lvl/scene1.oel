@@ -1,0 +1,112 @@
+<level>
+  <width>600</width>
+  <height>400</height>
+  <walls set="wall">
+    <tile tx="0" ty="0" x="0" y="32"/>
+    <tile tx="0" ty="0" x="0" y="48"/>
+    <tile tx="0" ty="0" x="0" y="64"/>
+    <tile tx="0" ty="0" x="0" y="80"/>
+    <tile tx="0" ty="0" x="0" y="96"/>
+    <tile tx="0" ty="0" x="0" y="112"/>
+    <tile tx="0" ty="0" x="0" y="128"/>
+    <tile tx="0" ty="0" x="0" y="144"/>
+    <tile tx="0" ty="0" x="0" y="160"/>
+    <tile tx="0" ty="0" x="0" y="176"/>
+    <tile tx="0" ty="0" x="0" y="192"/>
+    <tile tx="0" ty="0" x="0" y="208"/>
+    <tile tx="0" ty="0" x="0" y="224"/>
+    <tile tx="0" ty="0" x="0" y="240"/>
+    <tile tx="0" ty="0" x="0" y="256"/>
+    <tile tx="0" ty="0" x="0" y="272"/>
+    <tile tx="0" ty="0" x="0" y="288"/>
+    <tile tx="0" ty="0" x="16" y="288"/>
+    <tile tx="0" ty="0" x="32" y="288"/>
+    <tile tx="0" ty="0" x="48" y="288"/>
+    <tile tx="0" ty="0" x="64" y="288"/>
+    <tile tx="0" ty="0" x="80" y="288"/>
+    <tile tx="0" ty="0" x="96" y="288"/>
+    <tile tx="0" ty="0" x="112" y="288"/>
+    <tile tx="0" ty="0" x="128" y="288"/>
+    <tile tx="0" ty="0" x="144" y="288"/>
+    <tile tx="0" ty="0" x="160" y="288"/>
+    <tile tx="0" ty="0" x="176" y="288"/>
+    <tile tx="0" ty="0" x="192" y="288"/>
+    <tile tx="0" ty="0" x="208" y="288"/>
+    <tile tx="0" ty="0" x="224" y="288"/>
+    <tile tx="0" ty="0" x="240" y="288"/>
+    <tile tx="0" ty="0" x="256" y="288"/>
+    <tile tx="0" ty="0" x="272" y="288"/>
+    <tile tx="0" ty="0" x="288" y="288"/>
+    <tile tx="0" ty="0" x="304" y="288"/>
+    <tile tx="0" ty="0" x="320" y="288"/>
+    <tile tx="0" ty="0" x="336" y="288"/>
+    <tile tx="0" ty="0" x="352" y="288"/>
+    <tile tx="0" ty="0" x="368" y="288"/>
+    <tile tx="0" ty="0" x="384" y="288"/>
+    <tile tx="0" ty="0" x="400" y="288"/>
+    <tile tx="0" ty="0" x="416" y="288"/>
+    <tile tx="0" ty="0" x="432" y="288"/>
+    <tile tx="0" ty="0" x="448" y="16"/>
+    <tile tx="0" ty="0" x="448" y="32"/>
+    <tile tx="0" ty="0" x="448" y="48"/>
+    <tile tx="0" ty="0" x="448" y="64"/>
+    <tile tx="0" ty="0" x="448" y="80"/>
+    <tile tx="0" ty="0" x="448" y="96"/>
+    <tile tx="0" ty="0" x="448" y="112"/>
+    <tile tx="0" ty="0" x="448" y="128"/>
+    <tile tx="0" ty="0" x="448" y="144"/>
+    <tile tx="0" ty="0" x="448" y="160"/>
+    <tile tx="0" ty="0" x="448" y="176"/>
+    <tile tx="0" ty="0" x="448" y="192"/>
+    <tile tx="0" ty="0" x="448" y="208"/>
+    <tile tx="0" ty="0" x="448" y="224"/>
+    <tile tx="0" ty="0" x="448" y="240"/>
+    <tile tx="0" ty="0" x="448" y="256"/>
+    <tile tx="0" ty="0" x="448" y="272"/>
+    <tile tx="0" ty="0" x="448" y="288"/>
+    <tile tx="0" ty="0" x="0" y="16"/>
+    <tile tx="0" ty="0" x="16" y="16"/>
+    <tile tx="0" ty="0" x="32" y="16"/>
+    <tile tx="0" ty="0" x="48" y="16"/>
+    <tile tx="0" ty="0" x="64" y="16"/>
+    <tile tx="0" ty="0" x="80" y="16"/>
+    <tile tx="0" ty="0" x="96" y="16"/>
+    <tile tx="0" ty="0" x="112" y="16"/>
+    <tile tx="0" ty="0" x="128" y="16"/>
+    <tile tx="0" ty="0" x="144" y="16"/>
+    <tile tx="0" ty="0" x="160" y="16"/>
+    <tile tx="0" ty="0" x="176" y="16"/>
+    <tile tx="0" ty="0" x="192" y="16"/>
+    <tile tx="0" ty="0" x="208" y="16"/>
+    <tile tx="0" ty="0" x="224" y="16"/>
+    <tile tx="0" ty="0" x="240" y="16"/>
+    <tile tx="0" ty="0" x="256" y="16"/>
+    <tile tx="0" ty="0" x="272" y="16"/>
+    <tile tx="0" ty="0" x="288" y="16"/>
+    <tile tx="0" ty="0" x="304" y="16"/>
+    <tile tx="0" ty="0" x="320" y="16"/>
+    <tile tx="0" ty="0" x="336" y="16"/>
+    <tile tx="0" ty="0" x="352" y="16"/>
+    <tile tx="0" ty="0" x="368" y="16"/>
+    <tile tx="0" ty="0" x="384" y="16"/>
+    <tile tx="0" ty="0" x="400" y="16"/>
+    <tile tx="0" ty="0" x="416" y="16"/>
+    <tile tx="0" ty="0" x="432" y="16"/>
+  </walls>
+  <background set="beton">
+    <rect tx="0" ty="0" x="16" y="32" w="432" h="256"/>
+  </background>
+  <objects>
+    <end x="64" y="268"/>
+    <soldier x="59" y="267"/>
+    <start x="109" y="271"/>
+    <gazenwagen x="231" y="253"/>
+    <banner x="205" y="224"/>
+    <banner x="287" y="224"/>
+    <banner x="415" y="224"/>
+    <banner x="378" y="224"/>
+    <opendoor x="396" y="268"/>
+    <banner x="46" y="224"/>
+    <banner x="83" y="224"/>
+  </objects>
+</level>
